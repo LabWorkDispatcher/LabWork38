@@ -1,0 +1,38 @@
+<resources>
+    <string name="res_text_entrance">Вход в личный кабинет</string>
+    <string name="res_text_db_choice">Выбрать из БД</string>
+    <string name="res_text_remaining_works">Осталось работ</string>
+
+    <string name="res_text_insert_name">Введите ваше имя</string>
+    <string name="res_text_insert_surname">Введите вашу фамилию</string>
+    <string name="res_text_insert_group">Введите вашу группу</string>
+    <string name="res_text_insert_works_accepted">Введите кол-во принятых работ</string>
+    <string name="res_text_insert_works_completed">Введите кол-во выполненных работ</string>
+    <string name="res_text_insert_when_was_accepted">Введите дату, когда эта работа была принята</string>
+    <string name="res_text_insert_when_was_accepted_numbered">Введите дату, когда работа №% была принята</string>
+    <string name="res_text_insert_when_will_be_accepted">Введите дату, когда эта работа будет принята</string>
+    <string name="res_text_insert_when_will_be_accepted_numbered">Введите дату, когда работа №% будет принята</string>
+
+    <string name="res_text_action_forward">Дальше</string>
+    <string name="res_text_action_back">Назад</string>
+    <string name="res_text_action_save">Сохранить результат</string>
+    <string name="res_text_action_exit">Выйти</string>
+
+    <string name="res_toast_minimal_name_length">Имя должно иметь хотя бы % букв.</string>
+    <string name="res_toast_minimal_surname_length">Фамилия должна иметь хотя бы % букв.</string>
+    <string name="res_toast_minimal_group_length">Группа должна быть иметь хотя бы % символов.</string>
+    <string name="res_toast_minimal_works_amount_accepted">Должно быть хотя бы % принятых работ.</string>
+    <string name="res_toast_minimal_works_amount_completed">Должно быть хотя бы % выполненных работ.</string>
+    <string name="res_toast_data_saved_successfully">Информация сохранена успешно!</string>
+    <string name="res_toast_data_saved_already">Информация уже сохранена.</string>
+    <string name="res_toast_empty_fields">Поля не могут быть оставлены пустыми.</string>
+
+    <string name="res_popup_data_replacement">На эти инициалы уже была заполнена форма.
+        Хотите увидеть уже заполненную информацию?</string>
+    <string name="res_popup_yes">Да</string>
+    <string name="res_popup_no">Нет</string>
+
+    <string name="res_recycler_lab_work">Лабораторная работа №</string>
+    <string name="res_recycler_was_accepted">Была принята</string>
+    <string name="res_recycler_will_be_accepted">Будет принята </string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="res_text_entrance">Persönlicher Kabinetteingang</string>
+    <string name="res_text_db_choice">Wählen Sie aus der Datenbank</string>
+    <string name="res_text_remaining_works">Verbleibende Arbeiten</string>
+
+    <string name="res_text_insert_name">Geben Sie Ihren Namen ein</string>
+    <string name="res_text_insert_surname">Geben Sie Ihren Nachnamen ein</string>
+    <string name="res_text_insert_group">Fügen Sie Ihre Gruppe ein</string>
+    <string name="res_text_insert_works_accepted">Geben Sie die Anzahl der akzeptierten Aufgaben ein</string>
+    <string name="res_text_insert_works_completed">Geben Sie die Anzahl der erledigten Aufgaben ein</string>
+    <string name="res_text_insert_when_was_accepted">Geben Sie das Datum ein, an dem die Aufgabe angenommen wurde</string>
+    <string name="res_text_insert_when_was_accepted_numbered">Geben Sie das Datum ein, an dem die Aufgabe Nr.% angenommen wurde</string>
+    <string name="res_text_insert_when_will_be_accepted">Geben Sie das Datum ein, an dem die Aufgabe angenommen wird</string>
+    <string name="res_text_insert_when_will_be_accepted_numbered">Geben Sie das Datum ein, an dem die Aufgabe Nr.% angenommen wird</string>
+
+    <string name="res_text_action_forward">Nächste</string>
+    <string name="res_text_action_back">Geh zurück</string>
+    <string name="res_text_action_save">Speichern Sie das Ergebnis</string>
+    <string name="res_text_action_exit">Verlassen</string>
+
+    <string name="res_toast_minimal_name_length">Der Name sollte mindestens % Buchstaben lang sein.</string>
+    <string name="res_toast_minimal_surname_length">Der Nachname sollte mindestens % Buchstaben lang sein.</string>
+    <string name="res_toast_minimal_group_length">Die Gruppe sollte mindestens % Zeichen lang sein.</string>
+    <string name="res_toast_minimal_works_amount_accepted">Es sollten mindestens % angenommene Werke vorhanden sein.</string>
+    <string name="res_toast_minimal_works_amount_completed">Es sollten mindestens % abgeschlossene Arbeiten vorhanden sein.</string>
+    <string name="res_toast_data_saved_successfully">Die Daten wurden erfolgreich gespeichert.</string>
+    <string name="res_toast_data_saved_already">Die Daten sind bereits gespeichert.</string>
+    <string name="res_toast_empty_fields">Keines der Felder darf leer bleiben.</string>
+
+    <string name="res_popup_data_replacement">In dieser ersten Woche wurde ein Formular angefordert.
+        Möchten Sie Ihre angeforderten Informationen weitergeben?</string>
+    <string name="res_popup_yes">Ja</string>
+    <string name="res_popup_no">Nein</string>
+
+    <string name="res_recycler_lab_work">Aufgabe Nr.</string>
+    <string name="res_recycler_was_accepted">Wurde angenommen am</string>
+    <string name="res_recycler_will_be_accepted">Wird akzeptiert am</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Laba38</string>
+
+    <string name="res_text_entrance">Personal Cabinet Entrance</string>
+    <string name="res_text_db_choice">Choose from DB</string>
+    <string name="res_text_remaining_works">Works remaining</string>
+
+    <string name="res_text_insert_name">Insert your name</string>
+    <string name="res_text_insert_surname">Insert your surname</string>
+    <string name="res_text_insert_group">Insert your group</string>
+    <string name="res_text_insert_works_accepted">Insert amount of accepted works</string>
+    <string name="res_text_insert_works_completed">Insert amount of completed works</string>
+    <string name="res_text_insert_when_was_accepted">Insert the date when this work was accepted</string>
+    <string name="res_text_insert_when_was_accepted_numbered">Insert the date when the work №% was accepted</string>
+    <string name="res_text_insert_when_will_be_accepted">Insert the date when this work is going to be accepted</string>
+    <string name="res_text_insert_when_will_be_accepted_numbered">Insert the date when the work №% is going to be accepted</string>
+
+    <string name="res_text_action_forward">Next</string>
+    <string name="res_text_action_back">Go back</string>
+    <string name="res_text_action_save">Save result</string>
+    <string name="res_text_action_exit">Leave</string>
+
+    <string name="res_toast_minimal_name_length">The name should be at least % letter(s) long.</string>
+    <string name="res_toast_minimal_surname_length">The surname should be at least % letter(s) long.</string>
+    <string name="res_toast_minimal_group_length">The group should be at least % character(s) long.</string>
+    <string name="res_toast_minimal_works_amount_accepted">There should be at least % accepted work(s).</string>
+    <string name="res_toast_minimal_works_amount_completed">There should be at least % completed work(s).</string>
+    <string name="res_toast_data_saved_successfully">The data has been saved successfully!</string>
+    <string name="res_toast_data_saved_already">The data is already saved.</string>
+    <string name="res_toast_empty_fields">None of the fields can be left empty.</string>
+
+    <string name="res_popup_data_replacement">A form has already been filled out for these initials.
+        Do you want to see it?</string>
+    <string name="res_popup_yes">Yes</string>
+    <string name="res_popup_no">No</string>
+
+    <string name="res_recycler_lab_work">Lab work №</string>
+    <string name="res_recycler_was_accepted">Was accepted on</string>
+    <string name="res_recycler_will_be_accepted">Will be accepted on</string>
+</resources>
